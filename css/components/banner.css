@@ -1,0 +1,44 @@
+body{
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Open Sans;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px;
+  height: 600px;
+  margin: 0 auto;
+
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.btn-primary {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  border: none;
+}
+
+
+
+
+.btn-secondary {
+  border: 1px solid #1EDD88;
+  padding: 8px 16px;
+  border-radius: 50px;
+  color: #1EDD88;
+}
+
